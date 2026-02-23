@@ -1,4 +1,4 @@
-Hello, Developer!
+Hello, Valerie Koroliuk!
 
 Welcome to your first GitHub workflow project.
 
